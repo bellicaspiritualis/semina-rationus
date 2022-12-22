@@ -14,7 +14,7 @@ val LightGray = Color(0xFFFCFCFC)
 val MediumGray = Color(0xFF9C9C9C)
 val DarkGray = Color(0xFF141414)
 val Zloty = Color(0xFFA17E41)
-val Malina = Color(0xFFA17E41)
+val Malina = Color(0xFF9f0d33)
 
 val LowPriorityColor = Color(0xFF049f82)
 val MediumPriorityColor = Color(0xFFA17E41)
